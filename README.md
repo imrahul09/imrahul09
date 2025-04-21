@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate full stack developer focused on building 
 
 ### 🛠 Projects
 
-| [Wanderlust] (https://github.com/imrahul09) | Node.js, Express.js, MongoDB, EJS | An end-to-end, database-focused rental home portal — perfect for planning trips and finding your next stay. (More project details or demo link  added here) |
+| [Wanderlust] (https://github.com/imrahul09/Wanderlust.git) | Node.js, Express.js, MongoDB, EJS | An end-to-end, database-focused rental home portal — perfect for planning trips and finding your next stay. (More project details or demo link  added here) |
 
 ---
 
